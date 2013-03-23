@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Петар Анастасов</string>
+    <string name="info">покажиИнфо</string>
+    <string name="title_activity_display_info">ПокажиИнфо</string>
+    <string name="text">Петар Анастасов е студент на ФЕИТ со индекс број 441/2007!</string>
+    <string name="name2">Стефан Лазаревски</string>
+    <string name="text2">Стефан Лазаревски е студент на ФЕИТ со индекс број џџџ/2008!</string>
+    <string name="title_activity_display_info2">ПокажиИнфо2</string>
+    
+    <string name="predmeti">Заеднички предмети</string>
+    <string name="info_sis">Информациони Системи</string>
+    <string name="wan_mr">WAN Мрежи</string>
+    <string name="kk_ip">Компјутерски Компоненти и Периферии</string>
+    <string name="mob_is">Мобилни Информациони Системи</string>
+    <string name="javni_mm">Јавни Мобилни Мрежи</string>
+</resources>
